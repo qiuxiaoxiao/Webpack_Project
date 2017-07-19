@@ -1,0 +1,11 @@
+{
+  "name": "qiucheng",
+  "version": "1.0.0",
+  "description": "webpack sample project 20170719",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qiucheng",
+  "license": "ISC"
+}
